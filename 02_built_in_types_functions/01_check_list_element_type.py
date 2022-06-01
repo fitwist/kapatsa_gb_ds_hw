@@ -7,6 +7,7 @@ li = [11, 10.1, 3 + 2j, 'альтернатива', [9, 7], (6, 5), ('a', 'b', '
 
 def show_type(self):
     i = 0
+
     for i in range(len(li) - 1):
         print(type(li[i]))
         i += 1

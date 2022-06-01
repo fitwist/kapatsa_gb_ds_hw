@@ -5,20 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2093874-a4cd-42cf-ae5d-70b7b0521f8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/02_built_in_types_functions/01_check_list_element_type.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_built_in_types_functions/02_neighbors_exchange.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_built_in_types_functions/03_seasonality.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_built_in_types_functions/04_enumerated_newline_words.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_built_in_types_functions/05_rating.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_built_in_types_functions/06_goods.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_functions/01_division.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_functions/02_profile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_functions/03_sum_of_largest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_functions/04_power.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_functions/05_input_then_sum_not_symbol.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_functions/06_07_capitalization.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_1_variables_and_input.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_intro/1_1_variables_and_input.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_2_format_time.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_intro/1_2_format_time.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_3_sum_of_n.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_intro/1_3_sum_of_n.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_4_largest_digit.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_intro/1_4_largest_digit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_5_profit_vs_costs.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_intro/1_5_profit_vs_costs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_6_daily_jogging.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_intro/1_6_daily_jogging.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_built_in_types_functions/01_check_list_element_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_built_in_types_functions/01_check_list_element_type.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_built_in_types_functions/02_neighbors_exchange.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_built_in_types_functions/02_neighbors_exchange.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,15 +52,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.pyOptions" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/01_intro" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.06_goods">
-    <configuration name="02_neighbors_exchange" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.06_07_capitalization">
+    <configuration name="02_profile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kapatsa_gb_ds_hw" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,11 +69,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_built_in_types_functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_built_in_types_functions/02_neighbors_exchange.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_functions/02_profile.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_seasonality" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03_sum_of_largest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kapatsa_gb_ds_hw" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,11 +90,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_built_in_types_functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_built_in_types_functions/03_seasonality.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_functions/03_sum_of_largest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04_enumerated_newline_words" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04_power" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kapatsa_gb_ds_hw" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,11 +111,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_built_in_types_functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_built_in_types_functions/04_enumerated_newline_words.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_functions/04_power.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05_rating" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05_input_then_sum_not_symbol" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kapatsa_gb_ds_hw" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,11 +132,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_built_in_types_functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_built_in_types_functions/05_rating.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_functions/05_input_then_sum_not_symbol.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06_goods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06_07_capitalization" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kapatsa_gb_ds_hw" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,11 +153,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_built_in_types_functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_built_in_types_functions/06_goods.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_functions/06_07_capitalization.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.06_goods" />
-        <item itemvalue="Python.05_rating" />
-        <item itemvalue="Python.04_enumerated_newline_words" />
-        <item itemvalue="Python.03_seasonality" />
-        <item itemvalue="Python.02_neighbors_exchange" />
+        <item itemvalue="Python.06_07_capitalization" />
+        <item itemvalue="Python.05_input_then_sum_not_symbol" />
+        <item itemvalue="Python.04_power" />
+        <item itemvalue="Python.03_sum_of_largest" />
+        <item itemvalue="Python.02_profile" />
       </list>
     </recent_temporary>
   </component>

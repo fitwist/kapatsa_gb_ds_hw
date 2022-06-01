@@ -11,7 +11,6 @@ length = int(input('Укажите длину списка (целое числ�
 i = 0
 for i in range(0, length):
     el = input('Введите элемент списка: ')
-    # print(type(el))
     li.append(el)
     i += 1
 
