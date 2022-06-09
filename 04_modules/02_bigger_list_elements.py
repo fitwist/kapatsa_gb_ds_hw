@@ -5,5 +5,4 @@
 
 lst = [15, 2, 3, 1, 7, 5, 4, 10]
 bigger_elements = [el for el in lst if el > lst[lst.index(el) - 1] and lst.index(el) > 0]
-# bigger_elements = [el for num, el in enumerate(lst) if lst[num - 1] < lst[num]]
 print(f'Результат: {bigger_elements}')
