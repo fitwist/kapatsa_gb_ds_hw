@@ -1,0 +1,5 @@
+infostart ltd 10000 5000
+dailywork gc 20000 3000
+supertel sp 3000 3000
+mreo ltd 2000 8000
+pizzahut sc 12000 9000

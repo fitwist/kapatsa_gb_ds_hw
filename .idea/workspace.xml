@@ -5,16 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2093874-a4cd-42cf-ae5d-70b7b0521f8c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_functions/01_division.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_functions/02_profile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_functions/03_sum_of_largest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_functions/04_power.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_functions/05_input_then_sum_not_symbol.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_functions/06_07_capitalization.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_built_in_types_functions/01_check_list_element_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_built_in_types_functions/01_check_list_element_type.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_built_in_types_functions/02_neighbors_exchange.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_built_in_types_functions/02_neighbors_exchange.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_files/01_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_files/01_strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_files/01_strings.txt" beforeDir="false" afterPath="$PROJECT_DIR$/05_files/01_strings.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_files/02_count_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_files/02_count_strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_files/02_count_strings.txt" beforeDir="false" afterPath="$PROJECT_DIR$/05_files/02_count_strings.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_files/03_salaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_files/03_salaries.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_files/03_salaries.txt" beforeDir="false" afterPath="$PROJECT_DIR$/05_files/03_salaries.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_files/04_numeral.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_files/04_numeral.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_files/04_numeral.txt" beforeDir="false" afterPath="$PROJECT_DIR$/05_files/04_numeral.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_files/04_numeral_to_write.txt" beforeDir="false" afterPath="$PROJECT_DIR$/05_files/04_numeral_to_write.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_files/05_spaced_numbers_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_files/05_spaced_numbers_sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_files/05_spaced_numbers_sum.txt" beforeDir="false" afterPath="$PROJECT_DIR$/05_files/05_spaced_numbers_sum.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_files/06_disciplines.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_files/06_disciplines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_files/06_disciplines.txt" beforeDir="false" afterPath="$PROJECT_DIR$/05_files/06_disciplines.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_files/07_company_profit.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_files/07_company_profit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_files/07_company_profit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/05_files/07_company_profit.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_files/07_company_profit_to_write.json" beforeDir="false" afterPath="$PROJECT_DIR$/05_files/07_company_profit_to_write.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_OOP_advanced/01_matrix_overloading.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_OOP_advanced/01_matrix_overloading.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_OOP_advanced/02_clothes.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_OOP_advanced/02_clothes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_OOP_advanced/03_cells.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_OOP_advanced/03_cells.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +59,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -60,8 +71,8 @@
       <recent name="$PROJECT_DIR$/01_intro" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.06_07_capitalization">
-    <configuration name="02_profile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.02_clothes">
+    <configuration name="01_matrix_overloading" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kapatsa_gb_ds_hw" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,11 +80,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_OOP_advanced" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_functions/02_profile.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_OOP_advanced/01_matrix_overloading.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_sum_of_largest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02_clothes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kapatsa_gb_ds_hw" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,11 +101,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_OOP_advanced" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_functions/03_sum_of_largest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_OOP_advanced/02_clothes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04_power" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03_cells" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kapatsa_gb_ds_hw" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,11 +122,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_OOP_advanced" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_functions/04_power.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_OOP_advanced/03_cells.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -124,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05_input_then_sum_not_symbol" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04_car" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kapatsa_gb_ds_hw" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,11 +143,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_OOP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_functions/05_input_then_sum_not_symbol.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_OOP/04_car.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06_07_capitalization" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05_stationery" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kapatsa_gb_ds_hw" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,11 +164,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_OOP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_functions/06_07_capitalization.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_OOP/05_stationery.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.06_07_capitalization" />
-        <item itemvalue="Python.05_input_then_sum_not_symbol" />
-        <item itemvalue="Python.04_power" />
-        <item itemvalue="Python.03_sum_of_largest" />
-        <item itemvalue="Python.02_profile" />
+        <item itemvalue="Python.02_clothes" />
+        <item itemvalue="Python.03_cells" />
+        <item itemvalue="Python.01_matrix_overloading" />
+        <item itemvalue="Python.05_stationery" />
+        <item itemvalue="Python.04_car" />
       </list>
     </recent_temporary>
   </component>
@@ -198,5 +209,8 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
