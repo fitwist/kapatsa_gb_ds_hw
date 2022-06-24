@@ -5,26 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2093874-a4cd-42cf-ae5d-70b7b0521f8c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/08_OOP_additional/01_decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_OOP_additional/02_division_by_zero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_OOP_additional/03_list_of_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_OOP_additional/04_06_equipment_warehouse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_OOP_additional/07_complex_numbers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_files/01_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_files/01_strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_files/01_strings.txt" beforeDir="false" afterPath="$PROJECT_DIR$/05_files/01_strings.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_files/02_count_strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_files/02_count_strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_files/02_count_strings.txt" beforeDir="false" afterPath="$PROJECT_DIR$/05_files/02_count_strings.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_files/03_salaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_files/03_salaries.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_files/03_salaries.txt" beforeDir="false" afterPath="$PROJECT_DIR$/05_files/03_salaries.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_files/04_numeral.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_files/04_numeral.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_files/04_numeral.txt" beforeDir="false" afterPath="$PROJECT_DIR$/05_files/04_numeral.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_files/04_numeral_to_write.txt" beforeDir="false" afterPath="$PROJECT_DIR$/05_files/04_numeral_to_write.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_files/05_spaced_numbers_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_files/05_spaced_numbers_sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_files/05_spaced_numbers_sum.txt" beforeDir="false" afterPath="$PROJECT_DIR$/05_files/05_spaced_numbers_sum.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_files/06_disciplines.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_files/06_disciplines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_files/06_disciplines.txt" beforeDir="false" afterPath="$PROJECT_DIR$/05_files/06_disciplines.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_files/07_company_profit.py" beforeDir="false" afterPath="$PROJECT_DIR$/05_files/07_company_profit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_files/07_company_profit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/05_files/07_company_profit.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_files/07_company_profit_to_write.json" beforeDir="false" afterPath="$PROJECT_DIR$/05_files/07_company_profit_to_write.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07_OOP_advanced/01_matrix_overloading.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_OOP_advanced/01_matrix_overloading.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07_OOP_advanced/02_clothes.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_OOP_advanced/02_clothes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07_OOP_advanced/03_cells.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_OOP_advanced/03_cells.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_files.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_OOP_advanced.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,8 +59,8 @@
       <recent name="$PROJECT_DIR$/01_intro" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.02_clothes">
-    <configuration name="01_matrix_overloading" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.04_06_equipment_warehouse">
+    <configuration name="01_decorators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kapatsa_gb_ds_hw" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,11 +68,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_OOP_advanced" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_OOP_additional" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_OOP_advanced/01_matrix_overloading.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_OOP_additional/01_decorators.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02_clothes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02_division_by_zero" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kapatsa_gb_ds_hw" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,11 +89,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_OOP_advanced" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_OOP_additional" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_OOP_advanced/02_clothes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_OOP_additional/02_division_by_zero.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03_cells" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03_list_of_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kapatsa_gb_ds_hw" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,11 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_OOP_advanced" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_OOP_additional" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_OOP_advanced/03_cells.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_OOP_additional/03_list_of_numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04_car" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04_06_equipment_warehouse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kapatsa_gb_ds_hw" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,11 +131,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_OOP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_OOP_additional" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_OOP/04_car.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_OOP_additional/04_06_equipment_warehouse.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05_stationery" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07_complex_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kapatsa_gb_ds_hw" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -164,11 +152,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/07_OOP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/08_OOP_additional" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07_OOP/05_stationery.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08_OOP_additional/07_complex_numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.02_clothes" />
-        <item itemvalue="Python.03_cells" />
-        <item itemvalue="Python.01_matrix_overloading" />
-        <item itemvalue="Python.05_stationery" />
-        <item itemvalue="Python.04_car" />
+        <item itemvalue="Python.04_06_equipment_warehouse" />
+        <item itemvalue="Python.07_complex_numbers" />
+        <item itemvalue="Python.03_list_of_numbers" />
+        <item itemvalue="Python.02_division_by_zero" />
+        <item itemvalue="Python.01_decorators" />
       </list>
     </recent_temporary>
   </component>

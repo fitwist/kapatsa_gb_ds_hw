@@ -9,7 +9,9 @@
 - отправляем ДЗ в репозиторий: ```git push origin lesson02```
 - переходим по сгенерированной pull-ссылке, переключаемся на ветку и жмем 'Compare  & pull request' / 'Merge pull request'
 - перейти во вкладку 'Files changed' и скопировать ссылку из адресной строки
-- вставить ссылку, например, 'https://github.com/fitwist/kapatsa_gb_ds_hw/pull/2' в соответствующее поле раздела "Практическое задание" на gb.ru 
+- выполнить слияние кнопкой 'Merge pull request' и проверить наличие файлов в Files Changed
+- вставить ссылку, например, 'https://github.com/fitwist/kapatsa_gb_ds_hw/pull/2' в соответствующее поле раздела "Практическое задание" на gb.ru
+
 
 ## Пример описания pull request:
 Lesson05
